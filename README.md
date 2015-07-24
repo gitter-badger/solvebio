@@ -2,6 +2,8 @@
 
 [Public issue tracker](https://github.com/solvebio/SolveBio/issues) for the whole SolveBio platform. To post an issue, you'll need a [GitHub account](https://www.github.com/signup). You can also email us anytime at [support@solvebio.com](mailto:support@solvebio.com).
 
+For questions about our developer API, please [see the API documentation first](https://docs.solvebio.com).
+
 
 ## What is SolveBio?
 
